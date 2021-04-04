@@ -22,6 +22,6 @@ def ACC(y_true,y_pred):
 
 if __name__=='__main__':
     print("hehe, this is my update test")
-    
+    print("this is the second test")
 
 
