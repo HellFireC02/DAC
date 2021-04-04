@@ -21,6 +21,7 @@ def ACC(y_true,y_pred):
     return sum([w[i,j] for i,j in ind])*1.0/Y_pred.size,ind
 
 if __name__=='__main__':
+    print("hehe, this is my update test")
     
 
 
