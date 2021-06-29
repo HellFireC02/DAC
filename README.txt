@@ -24,7 +24,7 @@ month = {Oct},
 year = {2017}
 }
 ```
-
+233333
 hehe this is the update test
 please do to eval our models:
 python model_eval.py --config cfgs/Cifar-100/t1.yaml && python model_eval.py --config cfgs/Cifar-100/t2.yaml && python model_eval.py --config cfgs/Cifar-100/t3.yaml
